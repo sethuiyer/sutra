@@ -1,0 +1,7 @@
+sutra
+sutracert
+bench/cnf/
+bench/wcnf/
+bench/manifest.json
+bench/results.json
+*.o
